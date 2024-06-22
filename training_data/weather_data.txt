@@ -1,0 +1,23 @@
+What is the weather in Cumbria?|The weather in Cumbria is 12.26 degrees Celsius
+What is the weather in Corfe Castle?|The weather in Corfe Castle is 16.30 degrees Celsius
+What is the weather in The Cotswolds?|The weather in The Cotswolds is 15.52 degrees Celsius
+What is the weather in Cambridge?|The weather in Cambridge is 16.68 degrees Celsius
+What is the weather in Bristol?|The weather in Bristol is 16.60 degrees Celsius
+What is the weather in Oxford?|The weather in Oxford is 16.41 degrees Celsius
+What is the weather in Norwich?|The weather in Norwich is 16.23 degrees Celsius
+What is the weather in Stonehenge?|The weather in Stonehenge is 16.36 degrees Celsius
+What is the weather in Watergate Bay?|The weather in Watergate Bay is 15.88 degrees Celsius
+What is the weather in Birmingham?|The weather in Birmingham is 16.14 degrees Celsius
+What is the forecast for Cumbria?|19 June - 12.26 degrees Celsius with light rain; 20 June - 13.58 degrees Celsius with scattered clouds; 21 June - 12.44 degrees Celsius with broken clouds; 22 June - 11.13 degrees Celsius with overcast clouds; 23 June - 14.85 degrees Celsius with broken clouds
+What is the forecast for Corfe Castle?|19 June - 16.30 degrees Celsius with broken clouds; 20 June - 14.77 degrees Celsius with overcast clouds; 21 June - 17.60 degrees Celsius with scattered clouds; 22 June - 16.91 degrees Celsius with light rain; 23 June - 18.97 degrees Celsius with clear skies
+What is the forecast for The Cotswolds?|19 June - 15.52 degrees Celsius with overcast clouds; 20 June - 17.47 degrees Celsius with scattered clouds; 21 June - 18.32 degrees Celsius with few clouds; 22 June - 15.56 degrees Celsius with light rain; 23 June - 19.08 degrees Celsius with clear skies
+What is the forecast for Cambridge?|19 June - 16.68 degrees Celsius with light rain; 20 June - 18.62 degrees Celsius with clear skies; 21 June - 20.04 degrees Celsius with clear sky; 22 June - 18.00 degrees Celsius with light rain; 23 June - 20.54 degrees Celsius with few clouds
+What is the forecast for Bristol?|19 June - 16.60 degrees Celsius with broken clouds; 20 June - 19.71 degrees Celsius with broken clouds; 21 June - 18.60 degrees Celsius with few clouds; 22 June - 17.71 degrees Celsius with light rain; 23 June - 19.96 degrees Celsius with clear skies
+What is the forecast for Oxford?|19 June - 16.41 degrees Celsius with broken clouds; 20 June - 18.55 degrees Celsius with few clouds; 21 June - 19.83 degrees Celsius with few clouds; 22 June - 16.77 degrees Celsius with light rain; 23 June - 20.26 degrees Celsius with clear skies
+What is the forecast for Norwich?|19 June - 16.23 degrees Celsius with broken clouds; 20 June - 18.63 degrees Celsius with clear skies; 21 June - 19.84 degrees Celsius with overcast clouds; 22 June - 17.34 degrees Celsius with light rain; 23 June - 20.64 degrees Celsius with scattered clouds
+What is the forecast for Stonehenge?|19 June - 16.36 degrees Celsius with broken clouds; 20 June - 16.26 degrees Celsius with broken clouds; 21 June - 19.71 degrees Celsius with light rain; 22 June - 16.99 degrees Celsius with light rain; 23 June - 20.12 degrees Celsius with clear skies
+What is the forecast for Watergate Bay?|19 June - 15.88 degrees Celsius with broken clouds; 20 June - 16.35 degrees Celsius with overcast clouds; 21 June - 15.22 degrees Celsius with overcast clouds; 22 June - 15.04 degrees Celsius with broken clouds; 23 June - 16.09 degrees Celsius with clear skies
+What is the forecast for Birmingham?|19 June - 16.14 degrees Celsius with broken clouds; 20 June - 20.37 degrees Celsius with broken clouds; 21 June - 20.43 degrees Celsius with few clouds; 22 June - 17.04 degrees Celsius with light rain; 23 June - 21.16 degrees Celsius with clear skies
+Thank you|You're welcome! Is there anything else I can help you with?
+Yes|How can I help?
+No|Have a great day!

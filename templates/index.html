@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ChatBot</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for("static", filename="styles/styles.css") }}">
+</head>
+<body>
+    <div class="chat-container">
+        <h1>PyBot Chatbot</h1>
+        <div class="messages" id="messages">
+            {% for message in chat_history %}
+                <div class="message {% if loop.index is even %}bot-message{% else %}user-message{% endif %}">
+                    {{ message }}
+                </div>
+            {% endfor %}
+            {% if map_url %}
+                <div class="map-container">
+                    <iframe width="100%" height="100%" frameborder="0" style="border:0" src="{{ map_url }}" allowfullscreen></iframe>
+                </div>
+            {% endif %}
+        </div>
+        <form method="POST" action="/">
+            <input type="hidden" name="chat_history" value="{{ chat_history }}">
+            <input type="text" name="user_input" placeholder="Type a message...">
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,51 @@
+Timestamp,Temperature (Celsius),Description,City
+2024-06-19 12:00:00,12.26,light rain,Cumbria
+2024-06-20 12:00:00,13.58,scattered clouds,Cumbria
+2024-06-21 12:00:00,12.44,broken clouds,Cumbria
+2024-06-22 12:00:00,11.13,overcast clouds,Cumbria
+2024-06-23 12:00:00,14.85,broken clouds,Cumbria
+2024-06-19 12:00:00,16.30,broken clouds,Corfe Castle
+2024-06-20 12:00:00,14.77,overcast clouds,Corfe Castle
+2024-06-21 12:00:00,17.60,scattered clouds,Corfe Castle
+2024-06-22 12:00:00,16.91,light rain,Corfe Castle
+2024-06-23 12:00:00,18.97,clear sky,Corfe Castle
+2024-06-19 12:00:00,15.52,overcast clouds,The Cotswolds
+2024-06-20 12:00:00,17.47,scattered clouds,The Cotswolds
+2024-06-21 12:00:00,18.32,few clouds,The Cotswolds
+2024-06-22 12:00:00,15.26,light rain,The Cotswolds
+2024-06-23 12:00:00,19.08,clear sky,The Cotswolds
+2024-06-19 12:00:00,16.68,light rain,Cambridge
+2024-06-20 12:00:00,18.62,clear sky,Cambridge
+2024-06-21 12:00:00,20.04,clear sky,Cambridge
+2024-06-22 12:00:00,18.00,light rain,Cambridge
+2024-06-23 12:00:00,20.54,few clouds,Cambridge
+2024-06-19 12:00:00,16.60,broken clouds,Bristol
+2024-06-20 12:00:00,19.71,broken clouds,Bristol
+2024-06-21 12:00:00,18.60,few clouds,Bristol
+2024-06-22 12:00:00,17.71,light rain,Bristol
+2024-06-23 12:00:00,19.96,clear sky,Bristol
+2024-06-19 12:00:00,16.41,broken clouds,Oxford
+2024-06-20 12:00:00,18.55,few clouds,Oxford
+2024-06-21 12:00:00,19.83,few clouds,Oxford
+2024-06-22 12:00:00,16.77,light rain,Oxford
+2024-06-23 12:00:00,20.26,clear sky,Oxford
+2024-06-19 12:00:00,16.23,broken clouds,Norwich
+2024-06-20 12:00:00,18.63,clear sky,Norwich
+2024-06-21 12:00:00,19.84,overcast clouds,Norwich
+2024-06-22 12:00:00,17.34,light rain,Norwich
+2024-06-23 12:00:00,20.64,scattered clouds,Norwich
+2024-06-19 12:00:00,16.36,broken clouds,Stonehenge
+2024-06-20 12:00:00,16.26,broken clouds,Stonehenge
+2024-06-21 12:00:00,19.71,light rain,Stonehenge
+2024-06-22 12:00:00,16.99,light rain,Stonehenge
+2024-06-23 12:00:00,20.12,clear sky,Stonehenge
+2024-06-19 12:00:00,15.88,broken clouds,Watergate Bay
+2024-06-20 12:00:00,16.35,overcast clouds,Watergate Bay
+2024-06-21 12:00:00,15.22,overcast clouds,Watergate Bay
+2024-06-22 12:00:00,15.04,broken clouds,Watergate Bay
+2024-06-23 12:00:00,16.09,clear sky,Watergate Bay
+2024-06-19 12:00:00,16.14,broken clouds,Birmingham
+2024-06-20 12:00:00,20.37,broken clouds,Birmingham
+2024-06-21 12:00:00,20.43,few clouds,Birmingham
+2024-06-22 12:00:00,17.04,light rain,Birmingham
+2024-06-23 12:00:00,21.16,clear sky,Birmingham
